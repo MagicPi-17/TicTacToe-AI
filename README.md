@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-AI
-an AI that plays the tic tac toe game against the player.
+Tic-Tac-Toe with AI that plays against a player.
